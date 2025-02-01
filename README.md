@@ -16,6 +16,8 @@ O objetivo é criar um sistema de semáforo que alterne entre três sinais (verm
 - **Resistores de 330 Ω**.
 
 ---
+**Link Wokwi:**
+<https://wokwi.com/projects/421686218869483521>
 
 ## 🎯 Funcionalidades do Projeto
 
